@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    font-family: "Courier New", Courier, monospace;
+}
+.flex-container {
+    display: flex;
+    background-color: rgb(182, 182, 182);
+}
+
+.box {
+    background-color: rgb(51, 51, 51);
+    min-height: 80px;
+    min-width: 80px;
+    color: white;
+}
+
